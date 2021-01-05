@@ -82,7 +82,7 @@ p:last-child {
     border-top: 2px solid orange !important;
 }
 .wrapper {
-    background: #eee;
+    background: #fff;
 }
 .logo-area a img {
     width: 80px;
@@ -213,22 +213,11 @@ li.dropdown.show .dropdown-menu.show {
 }
 
 /* banner area*/
-.slider-cat-area {
-    
-    padding: 28px 34px;
-}
-.slider-inner {
-    background: #fff;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 2px;
-}
 .banner-img img{
     width: 100%;
+    height: 100vh;
 }
-.banner-img img {
-    height: 300px;
-}
+
 nav.cat-menu h4 {
     border-bottom: 2px solid #eee;
     padding-bottom: 17px;
@@ -267,9 +256,6 @@ nav.cat-menu ul li:last-child {
     margin-top: 18px;
 }
 
-.banner-img img {
-    height: 400px;
-}
 /* product area*/
 .label {
     border: 3px solid #dcdee3;
