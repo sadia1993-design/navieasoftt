@@ -1,0 +1,60 @@
+/* XL Device 1200px. */
+
+@media only screen and (min-width: 1201px) and (max-width: 1500px) {}
+
+
+/* LG Device: 992px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {}
+
+
+/* MD Device: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+
+/* XS Device */
+
+@media only screen and (max-width: 767px) {
+    .category-info {
+        flex-direction: column;
+    }
+    .product-item {
+        flex-direction: column;
+    }
+    .icon-wrap.d-flex {
+        justify-content: center;
+    }
+    .logo-area {
+        text-align: center;
+    }
+    .features-box{
+       padding-right: 0;
+       border: 0;
+        margin-bottom: 30px;
+    }
+    .feature-item{
+        flex-direction: column;
+        
+    }
+    .new-arrival-content{
+        flex-direction: column;
+    }
+    .new-arrival-column .new-list a img {
+        width: 100%;
+    }
+    .new-arrival-column {
+        margin-bottom: 20px;
+    }
+    .new-arrival-inner .heading {
+        order: 2;
+    }
+    .new-arrival-inner .heading {
+        order: 2;
+        width: 100%;
+        margin-top: 31px;
+    }
+    .new-arrival-inner {
+        flex-direction: column;
+    }
+}
