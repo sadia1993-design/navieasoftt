@@ -217,7 +217,9 @@ li.dropdown.show .dropdown-menu.show {
     width: 100%;
     height: 100vh;
 }
-
+.slick-dots {
+    bottom: 18px !important;
+}
 nav.cat-menu h4 {
     border-bottom: 2px solid #eee;
     padding-bottom: 17px;
@@ -230,30 +232,6 @@ nav.cat-menu ul li {
 }
 nav.cat-menu ul li:last-child {
     border-bottom: 0;
-}
-/*new arrival */
-
-.new-arrival-wrap, .source-wrap {
-    background: #fff;
-    border-radius: 9px;
-    padding: 26px 15px;
-}
-
-.new-arrival-wrap i, .source-wrap i {
-    float: left;
-    margin-right: 10px;
-}
-
-.new-arrival-wrap h4, .source-wrap h4 {
-    font-size: 18px;
-}
-
-.heading {
-    width: 63%;
-}
-.flex-img {
-    justify-content: space-between;
-    margin-top: 18px;
 }
 
 /* product area*/
