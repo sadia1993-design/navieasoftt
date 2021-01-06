@@ -235,7 +235,22 @@ nav.cat-menu ul li:last-child {
 }
 
 /* hot deal area*/
-
+section#hot-deal{
+    padding: 80px 0;
+}
+.section-heading  h3{
+    position: relative;
+}
+.section-heading  h3:after{
+    position: absolute;
+    content: '';
+    width: 94%;
+    left: 12%;
+    height: 4px;
+    background: #A89F9F;
+    border-radius: 5px;
+    top: 50%;
+}
 
 /* footer*/
 footer.footer-area {
