@@ -251,7 +251,22 @@ section#hot-deal{
     border-radius: 5px;
     top: 50%;
 }
-
+.single-product-item {
+    background: #ddd;
+}
+.single-product.content h4 {
+    font-size: 13px;
+    color: #999;
+    margin-top: 20px;
+  }
+  span.quantity {
+    font-size: 12px;
+}
+  .product-meta span.price {
+    color: darkcyan;
+    font-size: 14px;
+    font-weight: 800;
+  }
 /* footer*/
 footer.footer-area {
     background:#39395C;
