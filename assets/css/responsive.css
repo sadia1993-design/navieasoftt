@@ -81,4 +81,18 @@
     select#search-category {
         display: none;
     }
+    .single-product-item-flex {
+        flex-direction: column;
+    }
+    
+    .single-product-item-flex .single-product-20 {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .single-product-item {
+        margin-bottom: 20px;
+    }
+    .section-heading h3 {
+        margin-bottom: 40px;
+    }
 }
