@@ -208,6 +208,7 @@ nav.cat-menu ul li:last-child {
     border-radius: 3px;
     overflow: hidden;
     flex: 1;
+    margin-bottom: 8px;
 }
 .single-product-item {
     background: #F3F2F2;
