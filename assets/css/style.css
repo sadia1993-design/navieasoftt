@@ -68,7 +68,7 @@ p:last-child {
 .top-header-content-left ul li i{margin-right: 8px; color: #fff;}
 .header-right-content nav ul li{
     margin-left: 8px;
-    border-left: 1px solid #e9ecef;
+    border-left: 2px solid #666;
     padding-left: 9px;
 }
 .header-right-content nav ul li:first-child{
@@ -80,6 +80,10 @@ p:last-child {
     position: absolute;
     top: 45px;
     border-top: 2px solid orange !important;
+}
+.search-form-wrap .icon-inner i {
+    margin-right: 13px;
+    font-size: 25px;
 }
 .wrapper {
     background: #fff;
@@ -112,7 +116,7 @@ nav.cat-menu ul li a i {
     margin-right: 0;
 }
 .search-form-wrap .icon-inner {
-    margin-left: 32px;
+    margin-left: 12px;
 }
 .search-form form input {
     height: 39px;
