@@ -57,4 +57,28 @@
     .new-arrival-inner {
         flex-direction: column;
     }
+    .section-heading h3 {
+        margin: 0 auto;
+    }
+    
+    .section-heading .label {
+        display: none;
+    }
+    .search-form-wrap {
+        flex-direction: column;
+    }
+    .top-header-content-left {
+        text-align: center;
+    }
+    
+    .header-right-content {
+        text-align: center !important;
+        margin-top: 20px;
+    }
+    a.search-btn i {
+        display: none;
+    }
+    select#search-category {
+        display: none;
+    }
 }
