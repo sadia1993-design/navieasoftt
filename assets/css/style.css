@@ -157,8 +157,13 @@ select#search-category {
     color: #000;
 }
 /* header bottom*/
-.header-bottom{
-    background: #ccc;
+.header-bottom {
+    background: #F3F2F2;
+}
+ul.navbar-nav.menu-left li a {
+    margin-right: 16px;
+    font-weight: bold;
+    font-size: 15px;
 }
 a.menu-btn {
    background: orange;
@@ -169,9 +174,7 @@ a.menu-btn {
 .header-bottom nav {
     padding: 8px 0;
 }
-.header-bottom {
-    border-top: 1px solid #eee;
-}
+
 
 
 
