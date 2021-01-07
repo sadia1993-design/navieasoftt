@@ -183,9 +183,7 @@ a.menu-btn {
     width: 100%;
     max-height: 500px;
 }
-.slick-dots {
-    bottom: 18px !important;
-}
+
 nav.cat-menu h4 {
     border-bottom: 2px solid #eee;
     padding-bottom: 17px;
@@ -201,8 +199,8 @@ nav.cat-menu ul li:last-child {
 }
 
 /* hot deal area*/
-#hot-deal{
-    padding: 80px 0;
+#hot-deal {
+    padding: 20px 0;
 }
 .section-heading {
     display: flex;
@@ -630,5 +628,11 @@ a.submit-btn.btn-outline-primary {
     /*==================discount===================*/
     .discount-img img {
         width: 100%;
-        height: 300px;
+        max-height: 300px;
+    }
+
+    /* every image*/
+    .single-img a img {
+        height: 135px;
+        width: 100%;
     }
