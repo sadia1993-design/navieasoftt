@@ -10,7 +10,15 @@
 
 /* MD Device: 768px. */
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-right-content {
+        text-align: center !important;
+    }
+    
+    .top-header-content-left {
+        text-align: center;
+    }
+}
 
 
 /* XS Device */
