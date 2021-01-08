@@ -33,12 +33,14 @@
 
 /* sm Device */
 
-@media only screen and (min-width: 576px) and (max-width: 767px) {
-    
+@media only screen and (min-width: 451px) and (max-width: 767px) {
+    .col-sm-6 {
+        width: 50%;
+    }
 }
 
 /* extra small */
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 450px) {
     .category-info {
         flex-direction: column;
     }
