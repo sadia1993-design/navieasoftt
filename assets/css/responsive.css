@@ -22,6 +22,12 @@
         justify-content: center;
         margin-top: 17px;
     }
+    .single-product-item-flex {
+        flex-wrap: wrap;
+    }
+    .single-product-20.w-33 {
+        max-width: 31%;
+    }
 }
 
 
