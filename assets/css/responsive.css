@@ -18,6 +18,10 @@
     .top-header-content-left {
         text-align: center;
     }
+    .header-middle .icon-wrap {
+        justify-content: center;
+        margin-top: 17px;
+    }
 }
 
 
