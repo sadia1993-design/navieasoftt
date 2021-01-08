@@ -633,6 +633,5 @@ a.submit-btn.btn-outline-primary {
 
     /* every image*/
     .single-img a img {
-        height: 135px;
         width: 100%;
     }
