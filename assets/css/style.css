@@ -193,8 +193,7 @@ a.nav-link .fa-home {
 
 /* banner area*/
 .banner-img img{
-    width: 100%;
-    max-height: 500px;
+   width: 100%;
 }
 
 nav.cat-menu h4 {
@@ -652,9 +651,6 @@ a.submit-btn.btn-outline-primary {
     }
 
     /* every image*/
-    .single-img a img {
-        width: 100%;
-    }
 
     /*======scroll top=========*/
     #myBtn {

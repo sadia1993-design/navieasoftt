@@ -58,6 +58,7 @@
 }
 /* extra small */
 @media only screen and (max-width: 450px) {
+   
     .search-form-wrap .icon-inner {
         display: none !important;
     }
