@@ -675,3 +675,9 @@ a.submit-btn.btn-outline-primary {
         background: #39395C;
         color: #fff;
     }
+
+    /* single product flex */
+    .single-product-item-flex .single-product.content {
+        padding-left: 20px;
+        padding-bottom: 26px;
+    }
