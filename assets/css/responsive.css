@@ -35,6 +35,11 @@
     .header-middle .icon-wrap {
         margin-top: 27px;
     }
+    .single-product-20 {width: 31%; margin-bottom: 23px;}
+
+.single-product-item-flex {
+    flex-wrap: wrap;
+}
 }
 
 
