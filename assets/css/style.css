@@ -166,10 +166,10 @@ ul.navbar-nav.menu-left li a {
     font-size: 15px;
 }
 a.menu-btn {
-   background: orange;
-   color:#fff;
-   border-radius: 6px;
-   margin-left: 20px;
+    background: #39395C;
+    color: #fff;
+    border-radius: 6px;
+    margin-left: 20px;
 }
 .header-bottom nav {
     padding: 8px 0;
@@ -306,7 +306,7 @@ hr {
 
 /* womens fashion */
 .single-product-navigation {
-    background: #636365;
+    background: #39395C;
     padding: 20px 15px 20px 15px;
 }
 
