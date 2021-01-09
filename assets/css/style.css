@@ -168,9 +168,10 @@ ul.navbar-nav.menu-left li a {
 a.menu-btn {
     background: #39395C;
     color: #fff;
-    border-radius: 6px;
-    margin-left: 20px;
     font-weight: bold;
+    border-radius: 0 17px;
+    padding: 9px 30px;
+    transition: all .5s ease-out;
 }
 a.nav-link.menu-btn:hover {
     background: #c8a23d;
@@ -229,6 +230,7 @@ nav.cat-menu ul li:last-child {
 }
 .single-product-item {
     background: #F3F2F2;
+    box-shadow: 2px 9px 12px #ccc;
 }
 .single-product.content h4 {
     font-size: 13px;
