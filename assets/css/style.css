@@ -674,6 +674,6 @@ a.submit-btn.btn-outline-primary {
         transition: all .5s ease-in-out;
       }
       button#myBtn:hover {
-        background: #fff;
-        color: #39395c;
+        background: #39395C;
+        color: #fff;
     }
