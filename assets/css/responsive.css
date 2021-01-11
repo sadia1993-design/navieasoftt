@@ -11,6 +11,15 @@
 /* MD Device: 768px. */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-nav .nav-link{
+       padding-right:.5rem;
+       padding-left: .5rem;
+    }
+    a.menu-btn{
+        color:#fff;
+        font-weight:bold;
+        border-radius:0;
+    }
     .header-right-content {
         text-align: center !important;
     }
